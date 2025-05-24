@@ -1,6 +1,6 @@
 # Variant 2 - Zoo Management System
 
-## [->Diagram here <-](./lab-1_diagram.drawio.png)
+## [->Diagram here <-](./lab_01.drawio.png)
 
 ## Programming Principles
 
